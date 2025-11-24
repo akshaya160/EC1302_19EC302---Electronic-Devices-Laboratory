@@ -25,10 +25,13 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
-
+<img width="1080" height="876" alt="image" src="https://github.com/user-attachments/assets/ae9a0f13-f551-4009-b885-98da28c77288" />
+<img width="1038" height="797" alt="image" src="https://github.com/user-attachments/assets/08b1f2a0-d11f-4d05-80a8-88baeb63e444" />
 
 ## OUTPUT GRAPH:
 
+<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/d29fa719-5110-44ec-ae30-64847c4f152e" />
+<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/f6c7ce49-6f53-478b-aa1c-50a6a3e93e6a" />
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel MOSFET circuit using LT-spice is simulated and verified. 
