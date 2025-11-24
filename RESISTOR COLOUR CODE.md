@@ -90,7 +90,7 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 
 ## iii) 12 KΩ ± 5%  
 
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/eee829af-e860-4111-a543-0264a0ddea9e" /><img width="1280" height="262" alt="image" src="https://github.com/user-attachments/assets/c46a77a8-3892-40e2-90d8-bbcb04c04f16" />
+ <img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/694e9014-5962-449d-8af5-20e7755fd7b6" /><img width="1280" height="262" alt="image" src="https://github.com/user-attachments/assets/c46a77a8-3892-40e2-90d8-bbcb04c04f16" />
 
 
 ## iv) 6.8 KΩ ± 20%  
