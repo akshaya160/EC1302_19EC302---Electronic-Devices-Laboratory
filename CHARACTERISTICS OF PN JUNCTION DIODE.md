@@ -18,7 +18,7 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
  <img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/269dee32-8e6d-4a8b-86d7-1a0b9dd6a72d" />
 
 ## REVERSE BIAS:
-<img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/f19f9475-7ccf-4e53-9487-b86503e28171" />
+ <img width="1600" height="1153" alt="image" src="https://github.com/user-attachments/assets/49430421-1f83-42cb-8be5-c134442e1ac0" />
 
 ## MODEL GRAPH:
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8064d1a4-d763-4839-9b1b-008a6cb20623" />
