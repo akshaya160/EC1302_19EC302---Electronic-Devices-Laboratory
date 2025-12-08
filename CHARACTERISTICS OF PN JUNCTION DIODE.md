@@ -23,6 +23,7 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 ## MODEL GRAPH:
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8064d1a4-d763-4839-9b1b-008a6cb20623" />
 
+
 ## PROCEDURE:  
 ## FORWARD BIAS 
 1. The connections are made as per the circuit diagram.
