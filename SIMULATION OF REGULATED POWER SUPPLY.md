@@ -47,6 +47,9 @@ LT-Spice
 
 <img width="1031" height="954" alt="image" src="https://github.com/user-attachments/assets/210ac412-2c69-4a5e-af4a-866b8b581d65" />
 
+![WhatsApp Image 2025-12-08 at 15 05 44_3c10519f](https://github.com/user-attachments/assets/d777bae5-a4cb-4c62-84f0-5d25830ad02a)
+
+
 ## SIGNAL OUTPUT(WITHOUT FILTER)
 
 <img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/d2e67649-39fa-45fb-b985-93d602791619" />
