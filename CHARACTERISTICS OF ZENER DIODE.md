@@ -25,7 +25,7 @@ The diodes, which are designed to operate in the breakdown region, are called th
 ## MODEL GRAPH:
 <img width="1600" height="1115" alt="image" src="https://github.com/user-attachments/assets/3017bf62-b51b-4f09-bac9-ce35c1410251" />
 
-![WhatsApp Image 2025-12-08 at 14 43 43_00fa88cc](https://github.com/user-attachments/assets/cfab7a33-25a2-43c6-810d-c010cff1efe0)
+ ![WhatsApp Image 2025-12-08 at 15 05 44_c25aaf8d](https://github.com/user-attachments/assets/92d690e8-f55c-4f02-ac71-48105b49125a)
 
 
 
